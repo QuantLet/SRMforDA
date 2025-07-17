@@ -1,0 +1,14 @@
+Name of QuantLet : 'SRMforDA'
+
+Published in : 'Review of Quantitative Finance and Accounting'
+
+Description : 'Illustrates four histograms for the stock returns data with different origins.'
+
+Keywords : 'Spectral risk measure, Value-at-risk, Expected shortfall, Digital assets, CRIX, Portfolio'
+
+See also : 'CCIndexRisk'
+
+Author : 'Matúš Horváth'
+
+Submitted : '26 Apr 2023'
+
